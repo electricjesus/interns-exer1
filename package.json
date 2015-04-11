@@ -1,0 +1,17 @@
+{
+  "name": "exer1",
+  "version": "1.0.0",
+  "description": "Introduction Tutorial for Interns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Seth Malaki <seth@desiredranking.com>",
+  "license": "ISC",
+  "dependencies": {
+    "grunt-contrib-cssmin": "^0.12.2"
+  }
+}
